@@ -1,0 +1,22 @@
+{
+  "short_name": "دليل الشرقاط",
+  "name": "دليل الشرقاط - كل ما تحتاجه في مدينتك",
+  "description": "دليل شامل لقضاء الشرقاط: عروض، أطباء، تكسي، مواقيت صلاة وطقس",
+  "icons": [
+    { "src": "/icons/icon-72.png",  "type": "image/png", "sizes": "72x72",   "purpose": "maskable any" },
+    { "src": "/icons/icon-96.png",  "type": "image/png", "sizes": "96x96",   "purpose": "maskable any" },
+    { "src": "/icons/icon-128.png", "type": "image/png", "sizes": "128x128", "purpose": "maskable any" },
+    { "src": "/icons/icon-192.png", "type": "image/png", "sizes": "192x192", "purpose": "maskable any" },
+    { "src": "/icons/icon-512.png", "type": "image/png", "sizes": "512x512", "purpose": "maskable any" }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#0ea5e9",
+  "scope": "/",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["lifestyle", "utilities", "local"],
+  "prefer_related_applications": false
+}
